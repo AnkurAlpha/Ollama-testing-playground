@@ -20,3 +20,4 @@
             --tools read_file,file_glob_search,grep_search,get_datetime\
             --webui-mcp-proxy
 # --no-mmap\ # 😭 GPU with only 4GB VRAM
+# speed 7t/s
