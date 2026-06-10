@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "timestamp": 1780984236732,
+  "timestamp": 1781091034289,
   "config": {
     "theme": "system",
     "apiKey": "",
@@ -9,7 +9,7 @@
     "sendOnEnter": true,
     "copyTextAttachmentsAsPlainText": false,
     "enableContinueGeneration": false,
-    "pdfAsImage": false,
+    "pdfAsImage": true,
     "askForTitleConfirmation": false,
     "titleGenerationUseFirstLine": false,
     "titleGenerationUseLLM": true,
@@ -30,7 +30,7 @@
     "frequency_penalty": "",
     "agenticMaxTurns": 10,
     "agenticMaxToolPreviewLines": 25,
-    "preEncodeConversation": true,
+    "preEncodeConversation": false,
     "disableReasoningParsing": false,
     "excludeReasoningFromContext": true,
     "showRawOutputSwitch": false,

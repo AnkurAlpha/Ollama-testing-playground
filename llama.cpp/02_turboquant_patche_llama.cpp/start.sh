@@ -28,3 +28,4 @@
 
 # I am satisfied for now .. 😇
 # current speed for now 23 t/s after choosing a good drafter
+# https://github.com/TheTom/llama-cpp-turboquant
